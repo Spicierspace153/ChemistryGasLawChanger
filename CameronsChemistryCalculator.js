@@ -49,34 +49,6 @@ var lawused = "";
     alert(lawused);
     alert(actualValue);
 
-/*
-    //coming up with datatype and assigning if it is the missing data or not
-    if (completedata1.type == completedata3.type) {
-        
-        completedata1.ismissing = false;
-        completedata2.ismissing = true;
-        completedata3.ismissing = false;
-    }
-
-    if (completedata1.type == completedata2.type) {
-        
-        completedata1.ismissing = false;
-        completedata2.ismissing = false;
-        completedata3.ismissing = true;
-    }
-    if (completedata2 == completedata3) {
-        
-        completedata1.ismissing = true;
-        completedata2.ismissing = false;
-        completedata3.ismissing = false;
-    }
-
-
-*/
-
-    //law implementation 
-    //charles/guylussac
-
 }
 
 function getAlgo(types) {
